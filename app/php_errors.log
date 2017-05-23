@@ -1,0 +1,780 @@
+[21-May-2017 13:08:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(22): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:09:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:09:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:15:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/..//home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:18:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/..//home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:19:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/../home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:20:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/home/ubuntu/workspace/app/webroot/../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:20:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/home/ubuntu/workspace/app/webroot/../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:23:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>../home/ubuntu/workspace/app/webroot/app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:25:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>/home/ubuntu/workspace/app/webroot/../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:27:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File <b>../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:28:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:28:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:34:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../app/Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(24): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 13:35:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>Library/Request.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 14<br>' in /home/ubuntu/workspace/app/webroot/index.php:14
+Stack trace:
+#0 [internal function]: {closure}('Library\Request')
+#1 /home/ubuntu/workspace/app/webroot/index.php(23): spl_autoload_call('Library\Request')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 14
+[21-May-2017 13:47:05 UTC] PHP Warning:  require(/home/ubuntu/workspace/app/webroot/../View/Layout_home.phtml): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/Library/Controller.php on line 13
+[21-May-2017 13:47:05 UTC] PHP Stack trace:
+[21-May-2017 13:47:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 13:47:05 UTC] PHP   2. Controller\HomeController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:37
+[21-May-2017 13:47:05 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/HomeController.php:12
+[21-May-2017 13:47:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/app/webroot/../View/Layout_home.phtml' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/Library/Controller.php on line 13
+[21-May-2017 13:47:05 UTC] PHP Stack trace:
+[21-May-2017 13:47:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 13:47:05 UTC] PHP   2. Controller\HomeController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:37
+[21-May-2017 13:47:05 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/HomeController.php:12
+[21-May-2017 13:47:33 UTC] PHP Notice:  Undefined variable: something in /home/ubuntu/workspace/app/Library/Controller.php on line 21
+[21-May-2017 13:47:33 UTC] PHP Stack trace:
+[21-May-2017 13:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 13:47:33 UTC] PHP   2. Controller\HomeController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:37
+[21-May-2017 13:47:33 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/HomeController.php:12
+[21-May-2017 14:53:49 UTC] PHP Fatal error:  Call to undefined function Library\Router() in /home/ubuntu/workspace/app/webroot/index.php on line 25
+[21-May-2017 14:53:49 UTC] PHP Stack trace:
+[21-May-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:02:56 UTC] PHP Notice:  Undefined variable: request in /home/ubuntu/workspace/app/Library/Router.php on line 12
+[21-May-2017 15:02:56 UTC] PHP Stack trace:
+[21-May-2017 15:02:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:02:56 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:02:56 UTC] PHP Fatal error:  Call to a member function server() on a non-object in /home/ubuntu/workspace/app/Library/Router.php on line 12
+[21-May-2017 15:02:56 UTC] PHP Stack trace:
+[21-May-2017 15:02:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:02:56 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:03:07 UTC] PHP Notice:  Undefined variable: request in /home/ubuntu/workspace/app/Library/Router.php on line 12
+[21-May-2017 15:03:07 UTC] PHP Stack trace:
+[21-May-2017 15:03:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:03:07 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:03:07 UTC] PHP Fatal error:  Call to a member function server() on a non-object in /home/ubuntu/workspace/app/Library/Router.php on line 12
+[21-May-2017 15:03:07 UTC] PHP Stack trace:
+[21-May-2017 15:03:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:03:07 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:26:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Library/Router.php on line 26
+[21-May-2017 15:26:09 UTC] PHP Stack trace:
+[21-May-2017 15:26:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:26:09 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:26:09 UTC] PHP   3. {closure:/home/ubuntu/workspace/app/webroot/index.php:11-20}() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:26:21 UTC] PHP Notice:  Undefined variable: routes in /home/ubuntu/workspace/app/Library/Router.php on line 41
+[21-May-2017 15:26:21 UTC] PHP Stack trace:
+[21-May-2017 15:26:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:26:21 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:26:21 UTC] PHP   3. Library\Router->getURI() /home/ubuntu/workspace/app/Library/Router.php:15
+[21-May-2017 15:26:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/Library/Router.php on line 41
+[21-May-2017 15:26:21 UTC] PHP Stack trace:
+[21-May-2017 15:26:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:26:21 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:26:21 UTC] PHP   3. Library\Router->getURI() /home/ubuntu/workspace/app/Library/Router.php:15
+[21-May-2017 15:26:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/Library/Router.php on line 41
+[21-May-2017 15:26:44 UTC] PHP Stack trace:
+[21-May-2017 15:26:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:26:44 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:26:44 UTC] PHP   3. Library\Router->getURI() /home/ubuntu/workspace/app/Library/Router.php:15
+[21-May-2017 15:32:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/Library/Router.php on line 41
+[21-May-2017 15:32:52 UTC] PHP Stack trace:
+[21-May-2017 15:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:32:52 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:32:52 UTC] PHP   3. Library\Router->getURI() /home/ubuntu/workspace/app/Library/Router.php:15
+[21-May-2017 15:33:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/Library/Router.php on line 42
+[21-May-2017 15:33:47 UTC] PHP Stack trace:
+[21-May-2017 15:33:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:33:47 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:33:47 UTC] PHP   3. Library\Router->getURI() /home/ubuntu/workspace/app/Library/Router.php:15
+[21-May-2017 15:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/Library/Router.php on line 42
+[21-May-2017 15:34:04 UTC] PHP Stack trace:
+[21-May-2017 15:34:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:34:04 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:34:04 UTC] PHP   3. Library\Router->getURI() /home/ubuntu/workspace/app/Library/Router.php:15
+[21-May-2017 15:53:21 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:21 UTC] PHP Stack trace:
+[21-May-2017 15:53:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:21 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:21 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:21 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:21 UTC] PHP Stack trace:
+[21-May-2017 15:53:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:21 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:21 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:21 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:21 UTC] PHP Stack trace:
+[21-May-2017 15:53:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:21 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:21 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:21 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:21 UTC] PHP Stack trace:
+[21-May-2017 15:53:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:21 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:21 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:31 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:31 UTC] PHP Stack trace:
+[21-May-2017 15:53:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:31 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:31 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:31 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:31 UTC] PHP Stack trace:
+[21-May-2017 15:53:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:31 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:31 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:31 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:31 UTC] PHP Stack trace:
+[21-May-2017 15:53:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:31 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:31 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 15:53:31 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/ubuntu/workspace/app/Library/Router.php on line 25
+[21-May-2017 15:53:31 UTC] PHP Stack trace:
+[21-May-2017 15:53:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 15:53:31 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 15:53:31 UTC] PHP   3. preg_match() /home/ubuntu/workspace/app/Library/Router.php:25
+[21-May-2017 16:34:32 UTC] PHP Catchable fatal error:  Argument 1 passed to Library\Router::getRoute() must be an instance of Library\Request, none given, called in /home/ubuntu/workspace/app/webroot/index.php on line 31 and defined in /home/ubuntu/workspace/app/Library/Router.php on line 47
+[21-May-2017 16:34:32 UTC] PHP Stack trace:
+[21-May-2017 16:34:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:34:32 UTC] PHP   2. Library\Router->getRoute() /home/ubuntu/workspace/app/webroot/index.php:31
+[21-May-2017 16:35:55 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/app/webroot/index.php on line 32
+[21-May-2017 16:35:55 UTC] PHP Stack trace:
+[21-May-2017 16:35:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:35:55 UTC] PHP Fatal error:  Call to a member function get_action() on a non-object in /home/ubuntu/workspace/app/webroot/index.php on line 32
+[21-May-2017 16:35:55 UTC] PHP Stack trace:
+[21-May-2017 16:35:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:38:53 UTC] PHP Catchable fatal error:  Object of class Library\Route could not be converted to string in /home/ubuntu/workspace/app/webroot/index.php on line 32
+[21-May-2017 16:38:53 UTC] PHP Stack trace:
+[21-May-2017 16:38:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:40:26 UTC] PHP Fatal error:  Call to a member function index() on a non-object in /home/ubuntu/workspace/app/webroot/index.php on line 34
+[21-May-2017 16:40:26 UTC] PHP Stack trace:
+[21-May-2017 16:40:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:40:59 UTC] PHP Fatal error:  Call to a member function indexAction() on a non-object in /home/ubuntu/workspace/app/webroot/index.php on line 34
+[21-May-2017 16:40:59 UTC] PHP Stack trace:
+[21-May-2017 16:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:42:09 UTC] PHP Warning:  require(/home/ubuntu/workspace/app/webroot/../View/layout_store.phtml): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/Library/Controller.php on line 14
+[21-May-2017 16:42:09 UTC] PHP Stack trace:
+[21-May-2017 16:42:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:42:09 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:35
+[21-May-2017 16:42:09 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:13
+[21-May-2017 16:42:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/app/webroot/../View/layout_store.phtml' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/Library/Controller.php on line 14
+[21-May-2017 16:42:09 UTC] PHP Stack trace:
+[21-May-2017 16:42:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:42:09 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:35
+[21-May-2017 16:42:09 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:13
+[21-May-2017 16:43:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Library/Exception.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Excepti...')
+#1 /home/ubuntu/workspace/app/Library/Router.php(34): spl_autoload_call('Library\Excepti...')
+#2 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#3 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 16:44:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Library/Exception.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Excepti...')
+#1 /home/ubuntu/workspace/app/Library/Router.php(34): spl_autoload_call('Library\Excepti...')
+#2 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#3 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 16:44:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Library/Exception.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Excepti...')
+#1 /home/ubuntu/workspace/app/Library/Router.php(34): spl_autoload_call('Library\Excepti...')
+#2 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#3 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 16:45:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Library/Exception.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Excepti...')
+#1 /home/ubuntu/workspace/app/Library/Router.php(34): spl_autoload_call('Library\Excepti...')
+#2 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#3 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 16:45:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Library/Exception.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Excepti...')
+#1 /home/ubuntu/workspace/app/Library/Router.php(34): spl_autoload_call('Library\Excepti...')
+#2 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#3 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 16:49:54 UTC] PHP Warning:  Missing argument 1 for Controller\StoreController::showAction(), called in /home/ubuntu/workspace/app/webroot/index.php on line 35 and defined in /home/ubuntu/workspace/app/Controller/StoreController.php on line 16
+[21-May-2017 16:49:54 UTC] PHP Stack trace:
+[21-May-2017 16:49:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:49:54 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:35
+[21-May-2017 16:50:08 UTC] PHP Warning:  Missing argument 1 for Controller\StoreController::showAction(), called in /home/ubuntu/workspace/app/webroot/index.php on line 35 and defined in /home/ubuntu/workspace/app/Controller/StoreController.php on line 16
+[21-May-2017 16:50:08 UTC] PHP Stack trace:
+[21-May-2017 16:50:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 16:50:08 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:35
+[21-May-2017 16:50:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Library/Exception.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 15<br>' in /home/ubuntu/workspace/app/webroot/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Library\Excepti...')
+#1 /home/ubuntu/workspace/app/Library/Router.php(34): spl_autoload_call('Library\Excepti...')
+#2 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#3 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 15
+[21-May-2017 16:52:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Opps. Can't open requested path!' in /home/ubuntu/workspace/app/Library/Router.php:34
+Stack trace:
+#0 /home/ubuntu/workspace/app/webroot/index.php(25): Library\Router->__construct('/home/ubuntu/wo...', Object(Library\Request))
+#1 {main}
+  thrown in /home/ubuntu/workspace/app/Library/Router.php on line 34
+[21-May-2017 17:11:16 UTC] PHP Warning:  Missing argument 2 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:11:16 UTC] PHP Stack trace:
+[21-May-2017 17:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:16 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:16 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:16 UTC] PHP Warning:  Missing argument 3 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:11:16 UTC] PHP Stack trace:
+[21-May-2017 17:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:16 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:16 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:16 UTC] PHP Notice:  Undefined variable: pattern in /home/ubuntu/workspace/app/Library/Route.php on line 14
+[21-May-2017 17:11:16 UTC] PHP Stack trace:
+[21-May-2017 17:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:16 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:16 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:16 UTC] PHP Notice:  Undefined variable: controller in /home/ubuntu/workspace/app/Library/Route.php on line 15
+[21-May-2017 17:11:16 UTC] PHP Stack trace:
+[21-May-2017 17:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:16 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:16 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:16 UTC] PHP Catchable fatal error:  Argument 1 passed to Controller\ExceptionController::indexAction() must be an instance of Library\Request, instance of Exception given, called in /home/ubuntu/workspace/app/webroot/index.php on line 40 and defined in /home/ubuntu/workspace/app/Controller/ExceptionController.php on line 8
+[21-May-2017 17:11:16 UTC] PHP Stack trace:
+[21-May-2017 17:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:16 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:40
+[21-May-2017 17:11:47 UTC] PHP Warning:  Missing argument 2 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:11:47 UTC] PHP Stack trace:
+[21-May-2017 17:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:47 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:47 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:47 UTC] PHP Warning:  Missing argument 3 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:11:47 UTC] PHP Stack trace:
+[21-May-2017 17:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:47 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:47 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:47 UTC] PHP Notice:  Undefined variable: pattern in /home/ubuntu/workspace/app/Library/Route.php on line 14
+[21-May-2017 17:11:47 UTC] PHP Stack trace:
+[21-May-2017 17:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:47 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:47 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:47 UTC] PHP Notice:  Undefined variable: controller in /home/ubuntu/workspace/app/Library/Route.php on line 15
+[21-May-2017 17:11:47 UTC] PHP Stack trace:
+[21-May-2017 17:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:47 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:11:47 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:11:47 UTC] PHP Catchable fatal error:  Argument 1 passed to Controller\ExceptionController::indexAction() must be an instance of Library\Request, instance of Exception given, called in /home/ubuntu/workspace/app/webroot/index.php on line 40 and defined in /home/ubuntu/workspace/app/Controller/ExceptionController.php on line 8
+[21-May-2017 17:11:47 UTC] PHP Stack trace:
+[21-May-2017 17:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:11:47 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:40
+[21-May-2017 17:12:46 UTC] PHP Warning:  Missing argument 2 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:12:46 UTC] PHP Stack trace:
+[21-May-2017 17:12:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:12:46 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:12:46 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:12:46 UTC] PHP Warning:  Missing argument 3 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:12:46 UTC] PHP Stack trace:
+[21-May-2017 17:12:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:12:46 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:12:46 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:12:46 UTC] PHP Notice:  Undefined variable: pattern in /home/ubuntu/workspace/app/Library/Route.php on line 14
+[21-May-2017 17:12:46 UTC] PHP Stack trace:
+[21-May-2017 17:12:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:12:46 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:12:46 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:12:46 UTC] PHP Notice:  Undefined variable: controller in /home/ubuntu/workspace/app/Library/Route.php on line 15
+[21-May-2017 17:12:46 UTC] PHP Stack trace:
+[21-May-2017 17:12:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:12:46 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:12:46 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:12:46 UTC] PHP Catchable fatal error:  Argument 1 passed to Controller\ExceptionController::indexAction() must be an instance of Controller\Exception, instance of Exception given, called in /home/ubuntu/workspace/app/webroot/index.php on line 40 and defined in /home/ubuntu/workspace/app/Controller/ExceptionController.php on line 8
+[21-May-2017 17:12:46 UTC] PHP Stack trace:
+[21-May-2017 17:12:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:12:46 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:40
+[21-May-2017 17:14:22 UTC] PHP Warning:  Missing argument 2 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:14:22 UTC] PHP Stack trace:
+[21-May-2017 17:14:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:14:22 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:14:22 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:14:22 UTC] PHP Warning:  Missing argument 3 for Library\Route::__construct(), called in /home/ubuntu/workspace/app/Library/Router.php on line 34 and defined in /home/ubuntu/workspace/app/Library/Route.php on line 12
+[21-May-2017 17:14:22 UTC] PHP Stack trace:
+[21-May-2017 17:14:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:14:22 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:14:22 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:14:22 UTC] PHP Notice:  Undefined variable: pattern in /home/ubuntu/workspace/app/Library/Route.php on line 14
+[21-May-2017 17:14:22 UTC] PHP Stack trace:
+[21-May-2017 17:14:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:14:22 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:14:22 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:14:22 UTC] PHP Notice:  Undefined variable: controller in /home/ubuntu/workspace/app/Library/Route.php on line 15
+[21-May-2017 17:14:22 UTC] PHP Stack trace:
+[21-May-2017 17:14:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:14:22 UTC] PHP   2. Library\Router->__construct() /home/ubuntu/workspace/app/webroot/index.php:25
+[21-May-2017 17:14:22 UTC] PHP   3. Library\Route->__construct() /home/ubuntu/workspace/app/Library/Router.php:34
+[21-May-2017 17:14:22 UTC] PHP Catchable fatal error:  Argument 1 passed to Controller\ExceptionController::indexAction() must be an instance of Controller\Exception, instance of Exception given, called in /home/ubuntu/workspace/app/webroot/index.php on line 40 and defined in /home/ubuntu/workspace/app/Controller/ExceptionController.php on line 8
+[21-May-2017 17:14:22 UTC] PHP Stack trace:
+[21-May-2017 17:14:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:14:22 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:40
+[21-May-2017 17:55:30 UTC] PHP Notice:  Undefined variable: message in /home/ubuntu/workspace/app/View/LayoutException.phtml on line 1
+[21-May-2017 17:55:30 UTC] PHP Stack trace:
+[21-May-2017 17:55:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:55:30 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:55:30 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/ExceptionController.php:13
+[21-May-2017 17:55:30 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:14
+[21-May-2017 17:55:30 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/app/View/LayoutException.phtml on line 1
+[21-May-2017 17:55:30 UTC] PHP Stack trace:
+[21-May-2017 17:55:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:55:30 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:55:30 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/ExceptionController.php:13
+[21-May-2017 17:55:30 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:14
+[21-May-2017 17:55:47 UTC] PHP Notice:  Undefined variable: message in /home/ubuntu/workspace/app/View/LayoutException.phtml on line 1
+[21-May-2017 17:55:47 UTC] PHP Stack trace:
+[21-May-2017 17:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:55:47 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:55:47 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/ExceptionController.php:13
+[21-May-2017 17:55:47 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:14
+[21-May-2017 17:55:47 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/app/View/LayoutException.phtml on line 1
+[21-May-2017 17:55:47 UTC] PHP Stack trace:
+[21-May-2017 17:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:55:47 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:55:47 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/ExceptionController.php:13
+[21-May-2017 17:55:47 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:14
+[21-May-2017 17:57:09 UTC] PHP Notice:  Undefined variable: router in /home/ubuntu/workspace/app/View/LayoutException.phtml on line 2
+[21-May-2017 17:57:09 UTC] PHP Stack trace:
+[21-May-2017 17:57:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:57:09 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:57:09 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/ExceptionController.php:11
+[21-May-2017 17:57:09 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:14
+[21-May-2017 17:57:09 UTC] PHP Fatal error:  Call to a member function getURI() on a non-object in /home/ubuntu/workspace/app/View/LayoutException.phtml on line 2
+[21-May-2017 17:57:09 UTC] PHP Stack trace:
+[21-May-2017 17:57:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:57:09 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:57:09 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/ExceptionController.php:11
+[21-May-2017 17:57:09 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:14
+[21-May-2017 17:59:13 UTC] PHP Notice:  Undefined variable: router in /home/ubuntu/workspace/app/Controller/ExceptionController.php on line 11
+[21-May-2017 17:59:13 UTC] PHP Stack trace:
+[21-May-2017 17:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:59:13 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[21-May-2017 17:59:13 UTC] PHP Fatal error:  Call to a member function getURI() on a non-object in /home/ubuntu/workspace/app/Controller/ExceptionController.php on line 11
+[21-May-2017 17:59:13 UTC] PHP Stack trace:
+[21-May-2017 17:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[21-May-2017 17:59:13 UTC] PHP   2. Controller\ExceptionController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:34
+[22-May-2017 14:33:59 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/app/webroot/index.php on line 29
+[22-May-2017 14:33:59 UTC] PHP Stack trace:
+[22-May-2017 14:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[22-May-2017 14:33:59 UTC] PHP   2. explode() /home/ubuntu/workspace/app/webroot/index.php:29
+[22-May-2017 14:33:59 UTC] PHP Notice:  Undefined variable: servername in /home/ubuntu/workspace/app/webroot/index.php on line 31
+[22-May-2017 14:33:59 UTC] PHP Stack trace:
+[22-May-2017 14:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[22-May-2017 14:33:59 UTC] PHP Notice:  Undefined variable: username in /home/ubuntu/workspace/app/webroot/index.php on line 31
+[22-May-2017 14:33:59 UTC] PHP Stack trace:
+[22-May-2017 14:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[22-May-2017 14:33:59 UTC] PHP Notice:  Undefined variable: password in /home/ubuntu/workspace/app/webroot/index.php on line 31
+[22-May-2017 14:33:59 UTC] PHP Stack trace:
+[22-May-2017 14:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[22-May-2017 14:39:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/app/webroot/index.php on line 30
+[23-May-2017 11:59:30 UTC] PHP Notice:  Undefined variable: pdo in /home/ubuntu/workspace/app/webroot/index.php on line 43
+[23-May-2017 11:59:30 UTC] PHP Stack trace:
+[23-May-2017 11:59:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:30:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Entity/Bike.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Entity\Bike')
+#1 /home/ubuntu/workspace/app/Model/BikesManager.php(28): spl_autoload_call('Entity\Bike')
+#2 /home/ubuntu/workspace/app/Controller/StoreController.php(15): Model\BikesManager->findAll()
+#3 /home/ubuntu/workspace/app/webroot/index.php(63): Controller\StoreController->indexAction()
+#4 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 12:34:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Entity/Bike.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Entity\Bike')
+#1 /home/ubuntu/workspace/app/Model/BikesManager.php(28): spl_autoload_call('Entity\Bike')
+#2 /home/ubuntu/workspace/app/Controller/StoreController.php(15): Model\BikesManager->findAll()
+#3 /home/ubuntu/workspace/app/webroot/index.php(63): Controller\StoreController->indexAction()
+#4 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 12:35:24 UTC] PHP Warning:  Missing argument 1 for Model\Entity\Bike::__construct(), called in /home/ubuntu/workspace/app/Model/BikesManager.php on line 28 and defined in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 56
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Warning:  Missing argument 2 for Model\Entity\Bike::__construct(), called in /home/ubuntu/workspace/app/Model/BikesManager.php on line 28 and defined in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 56
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Warning:  Missing argument 3 for Model\Entity\Bike::__construct(), called in /home/ubuntu/workspace/app/Model/BikesManager.php on line 28 and defined in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 56
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Warning:  Missing argument 4 for Model\Entity\Bike::__construct(), called in /home/ubuntu/workspace/app/Model/BikesManager.php on line 28 and defined in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 56
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Warning:  Missing argument 5 for Model\Entity\Bike::__construct(), called in /home/ubuntu/workspace/app/Model/BikesManager.php on line 28 and defined in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 56
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Warning:  Missing argument 6 for Model\Entity\Bike::__construct(), called in /home/ubuntu/workspace/app/Model/BikesManager.php on line 28 and defined in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 56
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Notice:  Undefined variable: id in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 57
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Notice:  Undefined variable: model_name in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 58
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Notice:  Undefined variable: manufacturer in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 59
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Notice:  Undefined variable: type in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 60
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Notice:  Undefined variable: wheel_size in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 61
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Notice:  Undefined variable: price in /home/ubuntu/workspace/app/Model/Entity/Bike.php on line 62
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:24 UTC] PHP   4. Model\Entity\Bike->__construct() /home/ubuntu/workspace/app/Model/BikesManager.php:28
+[23-May-2017 12:35:24 UTC] PHP Fatal error:  Call to a member function set_model_name() on a non-object in /home/ubuntu/workspace/app/Model/BikesManager.php on line 30
+[23-May-2017 12:35:24 UTC] PHP Stack trace:
+[23-May-2017 12:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:24 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:35:58 UTC] PHP Fatal error:  Call to a member function set_model_name() on a non-object in /home/ubuntu/workspace/app/Model/BikesManager.php on line 30
+[23-May-2017 12:35:58 UTC] PHP Stack trace:
+[23-May-2017 12:35:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 12:35:58 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 12:35:58 UTC] PHP   3. Model\BikesManager->findAll() /home/ubuntu/workspace/app/Controller/StoreController.php:15
+[23-May-2017 12:55:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Controller/AboutController.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Controller\Abou...')
+#1 /home/ubuntu/workspace/app/webroot/index.php(60): spl_autoload_call('Controller\Abou...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 13:18:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Controller/AboutController.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Controller\Abou...')
+#1 /home/ubuntu/workspace/app/webroot/index.php(60): spl_autoload_call('Controller\Abou...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 13:41:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Controller/AboutController.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Controller\Abou...')
+#1 /home/ubuntu/workspace/app/webroot/index.php(60): spl_autoload_call('Controller\Abou...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 13:45:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Controller/AboutController.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Controller\Abou...')
+#1 /home/ubuntu/workspace/app/webroot/index.php(60): spl_autoload_call('Controller\Abou...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 14:08:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Controller/AboutController.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Controller\Abou...')
+#1 /home/ubuntu/workspace/app/webroot/index.php(60): spl_autoload_call('Controller\Abou...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 15:18:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Controller/AboutController.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Controller\Abou...')
+#1 /home/ubuntu/workspace/app/webroot/index.php(60): spl_autoload_call('Controller\Abou...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 15:53:24 UTC] PHP Warning:  Missing argument 1 for Controller\StoreController::showAction(), called in /home/ubuntu/workspace/app/webroot/index.php on line 63 and defined in /home/ubuntu/workspace/app/Controller/StoreController.php on line 21
+[23-May-2017 15:53:24 UTC] PHP Stack trace:
+[23-May-2017 15:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 15:53:24 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 15:56:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ubuntu/workspace/app/Controller/StoreController.php on line 27
+[23-May-2017 15:56:33 UTC] PHP Stack trace:
+[23-May-2017 15:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 15:56:33 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/app/webroot/index.php:60
+[23-May-2017 15:56:33 UTC] PHP   3. {closure:/home/ubuntu/workspace/app/webroot/index.php:16-25}() /home/ubuntu/workspace/app/webroot/index.php:60
+[23-May-2017 16:56:55 UTC] PHP Warning:  Missing argument 1 for Controller\StoreController::showAction(), called in /home/ubuntu/workspace/app/webroot/index.php on line 63 and defined in /home/ubuntu/workspace/app/Controller/StoreController.php on line 21
+[23-May-2017 16:56:55 UTC] PHP Stack trace:
+[23-May-2017 16:56:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 16:56:55 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 16:56:55 UTC] PHP Notice:  Undefined variable: view in /home/ubuntu/workspace/app/Controller/StoreController.php on line 22
+[23-May-2017 16:56:55 UTC] PHP Stack trace:
+[23-May-2017 16:56:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 16:56:55 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 16:56:55 UTC] PHP Notice:  Undefined variable: products in /home/ubuntu/workspace/app/Controller/StoreController.php on line 23
+[23-May-2017 16:56:55 UTC] PHP Stack trace:
+[23-May-2017 16:56:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 16:56:55 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 16:56:55 UTC] PHP Catchable fatal error:  Argument 2 passed to Library\Controller::render() must be of the type array, null given, called in /home/ubuntu/workspace/app/Controller/StoreController.php on line 23 and defined in /home/ubuntu/workspace/app/Library/Controller.php on line 21
+[23-May-2017 16:56:55 UTC] PHP Stack trace:
+[23-May-2017 16:56:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 16:56:55 UTC] PHP   2. Controller\StoreController->showAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 16:56:55 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:23
+[23-May-2017 18:17:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Model/bikesManager.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Model\bikesMana...')
+#1 /home/ubuntu/workspace/app/Library/ProductsManager.php(22): spl_autoload_call('Model\bikesMana...')
+#2 /home/ubuntu/workspace/app/Controller/BikesController.php(14): Library\ProductsManager->get_products('bikes')
+#3 /home/ubuntu/workspace/app/webroot/index.php(63): Controller\BikesController->indexAction()
+#4 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 18:20:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message '<br>File <b>/home/ubuntu/workspace/app/webroot/../Model/bikesManager.php</b> not found. Error log: file -> /home/ubuntu/workspace/app/webroot/index.php; line -> 20<br>' in /home/ubuntu/workspace/app/webroot/index.php:20
+Stack trace:
+#0 [internal function]: {closure}('Model\bikesMana...')
+#1 /home/ubuntu/workspace/app/Library/ProductsManager.php(22): spl_autoload_call('Model\bikesMana...')
+#2 /home/ubuntu/workspace/app/Controller/BikesController.php(14): Library\ProductsManager->get_products('bikes')
+#3 /home/ubuntu/workspace/app/webroot/index.php(63): Controller\BikesController->indexAction()
+#4 {main}
+  thrown in /home/ubuntu/workspace/app/webroot/index.php on line 20
+[23-May-2017 18:24:38 UTC] PHP Fatal error:  Class '\Model\StoreManager' not found in /home/ubuntu/workspace/app/Library/ProductsManager.php on line 22
+[23-May-2017 18:24:38 UTC] PHP Stack trace:
+[23-May-2017 18:24:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:24:38 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:24:38 UTC] PHP   3. Library\ProductsManager->get_products() /home/ubuntu/workspace/app/Controller/StoreController.php:14
+[23-May-2017 18:25:45 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:25:45 UTC] PHP Stack trace:
+[23-May-2017 18:25:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:25:45 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:25:45 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:25:45 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:25:45 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:25:45 UTC] PHP Stack trace:
+[23-May-2017 18:25:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:25:45 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:25:45 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:25:45 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:25:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:25:45 UTC] PHP Stack trace:
+[23-May-2017 18:25:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:25:45 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:25:45 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:25:45 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:25:50 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:25:50 UTC] PHP Stack trace:
+[23-May-2017 18:25:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:25:50 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:25:50 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:25:50 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:25:50 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:25:50 UTC] PHP Stack trace:
+[23-May-2017 18:25:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:25:50 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:25:50 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:25:50 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:25:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:25:50 UTC] PHP Stack trace:
+[23-May-2017 18:25:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:25:50 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:25:50 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:25:50 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:26:24 UTC] PHP Notice:  Undefined variable: Bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:26:24 UTC] PHP Stack trace:
+[23-May-2017 18:26:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:26:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:26:24 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:26:24 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:26:24 UTC] PHP Notice:  Undefined variable: Bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:26:24 UTC] PHP Stack trace:
+[23-May-2017 18:26:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:26:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:26:24 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:26:24 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:26:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:26:24 UTC] PHP Stack trace:
+[23-May-2017 18:26:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:26:24 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:26:24 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:26:24 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:28:52 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:28:52 UTC] PHP Stack trace:
+[23-May-2017 18:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:28:52 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:28:52 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:28:52 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:28:52 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:28:52 UTC] PHP Stack trace:
+[23-May-2017 18:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:28:52 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:28:52 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:28:52 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:28:52 UTC] PHP Stack trace:
+[23-May-2017 18:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:28:52 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:28:52 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:28:52 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:31:26 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:31:26 UTC] PHP Stack trace:
+[23-May-2017 18:31:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:31:26 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:31:26 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:31:26 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:31:26 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:31:26 UTC] PHP Stack trace:
+[23-May-2017 18:31:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:31:26 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:31:26 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:31:26 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:31:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:31:26 UTC] PHP Stack trace:
+[23-May-2017 18:31:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:31:26 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:31:26 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:31:26 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:31:26 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/Library/Controller.php on line 38
+[23-May-2017 18:31:26 UTC] PHP Stack trace:
+[23-May-2017 18:31:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:31:26 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:31:26 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:36 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:35:36 UTC] PHP Stack trace:
+[23-May-2017 18:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:36 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:36 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:36 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:35:36 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:35:36 UTC] PHP Stack trace:
+[23-May-2017 18:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:36 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:36 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:36 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:35:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:35:36 UTC] PHP Stack trace:
+[23-May-2017 18:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:36 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:36 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:36 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:35:36 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/Library/Controller.php on line 38
+[23-May-2017 18:35:36 UTC] PHP Stack trace:
+[23-May-2017 18:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:36 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:36 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:39 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 2
+[23-May-2017 18:35:39 UTC] PHP Stack trace:
+[23-May-2017 18:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:39 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:39 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:39 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:35:39 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:35:39 UTC] PHP Stack trace:
+[23-May-2017 18:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:39 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:39 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:39 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:35:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/app/View/LayoutStore.phtml on line 5
+[23-May-2017 18:35:39 UTC] PHP Stack trace:
+[23-May-2017 18:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:39 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:39 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:39 UTC] PHP   4. require() /home/ubuntu/workspace/app/Library/Controller.php:29
+[23-May-2017 18:35:39 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/Library/Controller.php on line 38
+[23-May-2017 18:35:39 UTC] PHP Stack trace:
+[23-May-2017 18:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:39 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:39 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/StoreController.php:18
+[23-May-2017 18:35:41 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/Library/Controller.php on line 38
+[23-May-2017 18:35:41 UTC] PHP Stack trace:
+[23-May-2017 18:35:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:41 UTC] PHP   2. Controller\HomeController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:41 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/HomeController.php:12
+[23-May-2017 18:35:46 UTC] PHP Notice:  Undefined variable: bikes in /home/ubuntu/workspace/app/Library/Controller.php on line 38
+[23-May-2017 18:35:46 UTC] PHP Stack trace:
+[23-May-2017 18:35:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:35:46 UTC] PHP   2. Controller\HomeController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:35:46 UTC] PHP   3. Library\Controller->render() /home/ubuntu/workspace/app/Controller/HomeController.php:12
+[23-May-2017 18:46:23 UTC] PHP Fatal error:  Call to undefined method Model\StoreManager::findAll() in /home/ubuntu/workspace/app/Controller/StoreController.php on line 15
+[23-May-2017 18:46:23 UTC] PHP Stack trace:
+[23-May-2017 18:46:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:46:23 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63
+[23-May-2017 18:46:49 UTC] PHP Fatal error:  Call to undefined method Model\StoreManager::findAll() in /home/ubuntu/workspace/app/Controller/StoreController.php on line 15
+[23-May-2017 18:46:49 UTC] PHP Stack trace:
+[23-May-2017 18:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/webroot/index.php:0
+[23-May-2017 18:46:49 UTC] PHP   2. Controller\StoreController->indexAction() /home/ubuntu/workspace/app/webroot/index.php:63

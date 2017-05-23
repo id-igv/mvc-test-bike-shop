@@ -1,0 +1,13 @@
+<div class="w3-container w3-text-grey" id="jeans">
+    <p><?=sizeof($bikes)?> items</p>
+</div>
+<div class="w3-row w3-grayscale" style="margin-bottom:10px;">
+    <?php foreach ($bikes as $bike) : ?>
+        <div class="w3-col w3-container l3 s6">
+            <img class="l3 s6" src="https://d30y9cdsu7xlg0.cloudfront.net/png/17527-200.png">
+            <p><?=$bike->get_manufacturer() . ' ' . $bike->get_model_name()?><br><b><?=$bike->get_price() . '$'?></b></p>
+            <a href="/store/item/<?=$bike->get_id()?>" class="w3-button w3-border">Details</a>
+            <a href="/store/item/<?=$bike->get_id()?>" class="w3-button w3-border">Add to cart</a>
+        </div>
+    <?php endforeach; ?>
+</div>
