@@ -12,6 +12,7 @@
     define('VIEW', ROOT . 'View' .  DS);
     define('ROUTES', ROOT . 'Config' .  DS . 'routes.php');
     define('DB_PARAMS', ROOT . 'Config' .  DS . 'db_connection.php');
+    define('IMGS', DS . 'img' . DS);
     
     spl_autoload_register(function ($className) {
         $file_to_require = ROOT . str_replace('\\', DS, "{$className}.php");
@@ -23,6 +24,8 @@
         
         require_once($file_to_require);
     });
+    
+    \Library\Session::start();
     
     $container = new \Library\Container();
     $request = new \Library\Request();

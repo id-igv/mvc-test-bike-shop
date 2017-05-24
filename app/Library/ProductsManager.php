@@ -30,6 +30,7 @@
         }
         
         public function getStore() {
+            return false;
             $productManager = new StoreManager($this->pdo);
             $products[$name] = $productManager;
         }

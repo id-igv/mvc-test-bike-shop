@@ -10,6 +10,8 @@
 <style>
     .w3-sidebar a {font-family: "Roboto", sans-serif}
     body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+    
+    .display-nonempty:empty{display:none;}
 </style>
 <body class="w3-content" style="max-width:1200px">
 
@@ -22,7 +24,8 @@
         
         <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">
             <a href="/" class="w3-bar-item w3-button">Home</a>
-            <a href="/store" class="w3-bar-item w3-button">Store</a>
+            <a href="/cart" class="w3-bar-item w3-button">Cart</a>
+            <!--<a href="/store" class="w3-bar-item w3-button">Store</a>-->
             <a href="/store/bikes" class="w3-bar-item w3-button">Bikes</a>
         </div>
             <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding" onclick="document.getElementById('newsletter').style.display='block'">Newsletter</a>
@@ -44,6 +47,8 @@
         
         <!-- Push down content on small screens -->
         <div class="w3-hide-large" style="margin-top:83px"></div>
+        
+        <div class="w3-row-padding w3-center display-nonempty" style=""><h3><?=\Library\Session::getFlash()?></h3></div>
         
         <!-- Product grid -->
         <?=$content?>

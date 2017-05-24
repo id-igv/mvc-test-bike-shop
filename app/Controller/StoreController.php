@@ -12,7 +12,7 @@
             
             $productsManager = new \Library\ProductsManager($this->container->get('pdo_connection'));
             $productManager = $productsManager->get_products($view); // asks for bikes manager
-            $products[lcfirst($view)] = $productManager->findAll();
+            $products[lcfirst($view)] = $productManager->findBikes();
             
             $viewFile = "Layout" . $view . ".phtml";
             return $this->render($viewFile, $products);

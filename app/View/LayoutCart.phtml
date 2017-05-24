@@ -1,0 +1,27 @@
+<?php if (isset($bike)) :
+    $total_price = 0;
+    foreach ($bike as $item) {
+        $total_price += $item['price'];
+    }
+?>
+<div class="w3-padding-16">
+    <i class="fa fa-shopping-cart w3-xlarge"></i>
+    <span class="w3-large">Total: <?=$total_price;?>$</span>
+    <a href="/cart/clear" class="w3-xlarge w3-right">Clear cart</a>
+</div>
+<?php endif;?>
+<?php if (isset($bike)) : ?>
+    <div class="w3-row">
+        <ul class="w3-ul w3-card-4">
+        <?php foreach ($bike as $cart_id => $item) :?>
+            
+            <li class="w3-padding-16">
+                <a href="/cart/bike/<?=$cart_id?>/delete" class="w3-xlarge w3-right">Delete</a>
+                <span class="w3-large"><?=$item['manufacturer'] . ' ' . $item['model_name'];?></span><br>
+                <span><?=$item['price'];?>$</span>
+            </li>
+
+        <?php endforeach;?>
+        </ul>
+    </div>
+<?php endif;?>

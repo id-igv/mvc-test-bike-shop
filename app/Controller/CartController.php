@@ -4,38 +4,65 @@
     use \Library\Request;
     use \Library\Controller;
     use \Library\ProductsManager;
+    use \Library\Session;
     
     class CartController extends Controller {
         
         public function indexAction(Request $request = null) {
-            // $view = lcfirst( str_replace(['\\', 'Controller'], '', get_class($this)));
+            $view = str_replace(['\\', 'Controller'], '', get_class($this));
             
-            // $productsManager = new \Library\ProductsManager($this->container->get('pdo_connection'));
-            // $productManager = $productsManager->get_products($view); // asks for bikes manager
-            // $products['bikes'] = $productManager->findAll();
+            $cart = unserialize(Session::get('cart'));
             
-            // $viewFile = "Layout" . ucfirst($view) . ".phtml";
-            // return $this->render($viewFile, $products);
-            return 'List of items you want to buy';
+            $viewFile = "Layout" . ucfirst($view) . ".phtml";
+            if ($cart != null) {
+                return $this->render($viewFile, $cart);
+            }
+            return $this->render($viewFile);
         }
         
         public function addAction() {
-            // $view = lcfirst( str_replace(['\\', 'Controller'], '', get_class($this))); // gets the view name
-            // $route = $this->container->get('router')->get_crntRoute();
+            $cart = unserialize(Session::get('cart'));
+            $route = $this->container->get('router')->getCurrentRoute();
+            $params = $route->get_requestedParams();
             
-            // $itemID = $route->get_params(); // gets the router to access the current rout params
+            $productsManager = new \Library\ProductsManager($this->container->get('pdo_connection'));
+            $productManager = $productsManager->get_products(ucfirst($params['name'].'s')); // asks for bikes manager
+            $product = $productManager->findByID($params['id']);
             
-            // $productsManager = new \Library\ProductsManager($this->container->get('pdo_connection'));
-            // $productManager = $productsManager->get_products($view); // asks for bikes manager
-            // $products['bikes'] = $productManager->findAll();
+            $cart[$params['name']][] = [
+                                        'id' => $product->get_id(), 
+                                        'model_name' => $product->get_model_name(), 
+                                        'manufacturer' => $product->get_manufacturer(), 
+                                        'price' => $product->get_price()
+                                        ];
             
-            // $viewFile = "Layout" . ucfirst($view) . ".phtml";
-            // return $this->render($viewFile, $products);
-            return 'Added';
+            Session::set('cart', serialize($cart));
+            Session::setFlash('Item has been added to your cart');
+            
+            $router = $this->container->get('router');
+            $router->redirect($router->getURI('store_bikes'));
         }
         
         public function deleteAction($params = array()) {
-            return 'Deleted';
+            $cart = unserialize(Session::get('cart'));
+            $route = $this->container->get('router')->getCurrentRoute();
+            $params = $route->get_requestedParams();
+            
+            unset($cart[$params['name']][$params['id']]);
+            
+            Session::set('cart', serialize($cart));
+            Session::setFlash('Item has been removed from your cart');
+            
+            $router = $this->container->get('router');
+            $router->redirect($router->getURI('cart'));
+        }
+        
+        public function clearAction() {
+            Session::remove('cart');
+            Session::setFlash('Your cart has been cleared');
+            
+            $router = $this->container->get('router');
+            $router->redirect($router->getURI('cart'));
         }
     }
 ?>

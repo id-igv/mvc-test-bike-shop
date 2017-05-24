@@ -25,7 +25,8 @@
                 
                 if (preg_match($pattern, $requestedRoute, $matches)) { // if found => generate crntRoute
                     $this->crntRoute = $route;
-                    $this->crntRoute->set_requestedParams( array_shift($matches));
+                    array_shift($matches);
+                    $this->crntRoute->set_requestedParams( array_combine( array_keys($route->get_params()), $matches));
                     break;
                 }
             }

@@ -1,0 +1,55 @@
+<div class="w3-row-padding">
+    <div class="w3-row">
+        <div class="w3-twothird">
+            <img style="max-width:100%;max-height:auto;" src="<?=IMGS . $bikes->get_img_src();?>" />
+        </div>
+        <div class="w3-third">
+            <h2><?=$bikes->get_manufacturer() . ' ' . $bikes->get_model_name();?></h2>
+            <p><b><?=$bikes->get_price();?>$</b></p>
+            <hr>
+            <p>Type: <?=$bikes->get_type();?></p>
+            <p>Wheel size: <?=$bikes->get_wheel_size();?>"</p>
+            <hr>
+            <a href="/cart/bike/<?=$bikes->get_id()?>/add" class="w3-row w3-button w3-border" style="width:100%;">Add to cart</a>
+        </div>
+    </div>
+    <div class="w3-row">
+        <h2 class="w3-row w3-center" style="width:100%;">Specification</h2>
+        <?php if ($bikes->get_frame() != '') :?>
+            <p><h3><b>Frame:</b></h3> <?=$bikes->get_frame();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_tires() != '') :?>
+            <p><h3><b>Tires:</b></h3> <?=$bikes->get_tires();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_shifters() != '') :?>
+            <p><h3><b>Shifters:</b></h3> <?=$bikes->get_shifters();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_front_derail() != '') :?>
+            <p><h3><b>Front derailleure:</b></h3> <?=$bikes->get_front_derail();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_rear_derail() != '') :?>
+            <p><h3><b>Rear derailleur:</b></h3> <?=$bikes->get_rear_derail();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_crank() != '') :?>
+            <p><h3><b>Crank:</b></h3> <?=$bikes->get_crank();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_cassete() != '') :?>
+            <p><h3><b>Cassete:</b></h3> <?=$bikes->get_cassete();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_chain() != '') :?>
+            <p><h3><b>Chain:</b></h3> <?=$bikes->get_chain();?></p>
+            <hr>
+        <?php endif;?>
+        <?php if ($bikes->get_brake_set() != '') :?>
+            <p><h3><b>Brakes:</b></h3> <?=$bikes->get_brake_set();?></p>
+            <hr>
+        <?php endif;?>
+    </div>
+</div>
